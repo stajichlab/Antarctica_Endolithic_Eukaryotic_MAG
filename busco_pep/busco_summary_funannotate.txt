@@ -1,0 +1,4161 @@
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-10.bin.46/predict_results/Fungi_sp._Mars-10.bin.46.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.0%[S:90.6%,D:0.4%],F:2.1%,M:6.9%,n:758	   
+	690	Complete BUSCOs (C)			   
+	687	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	52	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-11.bin.127/predict_results/Fungi_sp._Mars-11.bin.127.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:29.2%[S:28.6%,D:0.5%],F:19.9%,M:50.9%,n:758	   
+	221	Complete BUSCOs (C)			   
+	217	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	151	Fragmented BUSCOs (F)			   
+	386	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-11.bin.24/predict_results/Fungi_sp._Mars-11.bin.24.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.8%[S:96.7%,D:0.1%],F:1.2%,M:2.0%,n:758	   
+	734	Complete BUSCOs (C)			   
+	733	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	15	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-11.bin.28/predict_results/Fungi_sp._Mars-11.bin.28.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.3%[S:86.1%,D:3.2%],F:2.2%,M:8.4%,n:758	   
+	677	Complete BUSCOs (C)			   
+	653	Complete and single-copy BUSCOs (S)	   
+	24	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	64	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-11.bin.60/predict_results/Fungi_sp._Mars-11.bin.60.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.3%[S:85.8%,D:1.6%],F:2.5%,M:10.2%,n:758	   
+	662	Complete BUSCOs (C)			   
+	650	Complete and single-copy BUSCOs (S)	   
+	12	Complete and duplicated BUSCOs (D)	   
+	19	Fragmented BUSCOs (F)			   
+	77	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-13.bin.53/predict_results/Fungi_sp._Mars-13.bin.53.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:98.9%[S:98.8%,D:0.1%],F:0.3%,M:0.8%,n:758	   
+	750	Complete BUSCOs (C)			   
+	749	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	2	Fragmented BUSCOs (F)			   
+	6	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-13.bin.85/predict_results/Fungi_sp._Mars-13.bin.85.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:57.0%[S:56.9%,D:0.1%],F:1.3%,M:41.7%,n:758	   
+	432	Complete BUSCOs (C)			   
+	431	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	316	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-13.bin.90/predict_results/Fungi_sp._Mars-13.bin.90.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:28.2%[S:27.8%,D:0.4%],F:19.9%,M:51.8%,n:758	   
+	214	Complete BUSCOs (C)			   
+	211	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	151	Fragmented BUSCOs (F)			   
+	393	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-13.bin.92/predict_results/Fungi_sp._Mars-13.bin.92.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:83.2%[S:83.1%,D:0.1%],F:2.5%,M:14.2%,n:758	   
+	631	Complete BUSCOs (C)			   
+	630	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	19	Fragmented BUSCOs (F)			   
+	108	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.15/predict_results/Fungi_sp._Mars-14.bin.15.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.1%[S:88.9%,D:0.1%],F:2.5%,M:8.4%,n:758	   
+	675	Complete BUSCOs (C)			   
+	674	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	19	Fragmented BUSCOs (F)			   
+	64	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.1/predict_results/Fungi_sp._Mars-14.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.6%[S:87.7%,D:6.9%],F:1.1%,M:4.4%,n:758	   
+	717	Complete BUSCOs (C)			   
+	665	Complete and single-copy BUSCOs (S)	   
+	52	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	33	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.40/predict_results/Fungi_sp._Mars-14.bin.40.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.5%[S:94.2%,D:0.3%],F:0.5%,M:5.0%,n:758	   
+	716	Complete BUSCOs (C)			   
+	714	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	4	Fragmented BUSCOs (F)			   
+	38	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.46/predict_results/Fungi_sp._Mars-14.bin.46.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.8%[S:77.8%,D:2.0%],F:1.7%,M:18.5%,n:758	   
+	605	Complete BUSCOs (C)			   
+	590	Complete and single-copy BUSCOs (S)	   
+	15	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	140	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.52/predict_results/Fungi_sp._Mars-14.bin.52.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.7%[S:90.8%,D:2.9%],F:1.5%,M:4.9%,n:758	   
+	710	Complete BUSCOs (C)			   
+	688	Complete and single-copy BUSCOs (S)	   
+	22	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	37	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.71/predict_results/Fungi_sp._Mars-14.bin.71.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:77.0%[S:76.6%,D:0.4%],F:2.2%,M:20.7%,n:758	   
+	584	Complete BUSCOs (C)			   
+	581	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	157	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.73/predict_results/Fungi_sp._Mars-14.bin.73.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:74.4%[S:74.3%,D:0.1%],F:2.1%,M:23.5%,n:758	   
+	564	Complete BUSCOs (C)			   
+	563	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	178	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-14.bin.78/predict_results/Fungi_sp._Mars-14.bin.78.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:83.9%[S:83.8%,D:0.1%],F:3.6%,M:12.5%,n:758	   
+	636	Complete BUSCOs (C)			   
+	635	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	27	Fragmented BUSCOs (F)			   
+	95	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-15.bin.43/predict_results/Fungi_sp._Mars-15.bin.43.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:61.2%[S:60.9%,D:0.3%],F:9.9%,M:28.9%,n:758	   
+	464	Complete BUSCOs (C)			   
+	462	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	75	Fragmented BUSCOs (F)			   
+	219	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-15.bin.94/predict_results/Fungi_sp._Mars-15.bin.94.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:65.3%[S:63.1%,D:2.2%],F:5.1%,M:29.6%,n:758	   
+	495	Complete BUSCOs (C)			   
+	478	Complete and single-copy BUSCOs (S)	   
+	17	Complete and duplicated BUSCOs (D)	   
+	39	Fragmented BUSCOs (F)			   
+	224	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-16.bin.74/predict_results/Fungi_sp._Mars-16.bin.74.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:50.7%[S:50.7%,D:0.0%],F:1.8%,M:47.5%,n:758	   
+	384	Complete BUSCOs (C)			   
+	384	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	360	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-16.bin.78/predict_results/Fungi_sp._Mars-16.bin.78.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.3%[S:88.1%,D:0.1%],F:2.1%,M:9.6%,n:758	   
+	669	Complete BUSCOs (C)			   
+	668	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	73	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-16.bin.91/predict_results/Fungi_sp._Mars-16.bin.91.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:62.9%[S:61.6%,D:1.3%],F:3.8%,M:33.2%,n:758	   
+	477	Complete BUSCOs (C)			   
+	467	Complete and single-copy BUSCOs (S)	   
+	10	Complete and duplicated BUSCOs (D)	   
+	29	Fragmented BUSCOs (F)			   
+	252	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-16.bin.93/predict_results/Fungi_sp._Mars-16.bin.93.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.3%[S:84.6%,D:6.7%],F:2.1%,M:6.6%,n:758	   
+	692	Complete BUSCOs (C)			   
+	641	Complete and single-copy BUSCOs (S)	   
+	51	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	50	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-17.bin.121/predict_results/Fungi_sp._Mars-17.bin.121.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:80.9%[S:80.7%,D:0.1%],F:1.7%,M:17.4%,n:758	   
+	613	Complete BUSCOs (C)			   
+	612	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	132	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-17.bin.124/predict_results/Fungi_sp._Mars-17.bin.124.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.0%[S:89.6%,D:0.4%],F:0.8%,M:9.2%,n:758	   
+	682	Complete BUSCOs (C)			   
+	679	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	70	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-17.bin.13/predict_results/Fungi_sp._Mars-17.bin.13.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:72.7%[S:72.6%,D:0.1%],F:1.3%,M:26.0%,n:758	   
+	551	Complete BUSCOs (C)			   
+	550	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	197	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-17.bin.30/predict_results/Fungi_sp._Mars-17.bin.30.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.6%[S:89.2%,D:0.4%],F:2.8%,M:7.7%,n:758	   
+	679	Complete BUSCOs (C)			   
+	676	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	21	Fragmented BUSCOs (F)			   
+	58	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-18.bin.14/predict_results/Fungi_sp._Mars-18.bin.14.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.3%[S:86.7%,D:1.6%],F:2.2%,M:9.5%,n:758	   
+	669	Complete BUSCOs (C)			   
+	657	Complete and single-copy BUSCOs (S)	   
+	12	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	72	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-18.bin.21/predict_results/Fungi_sp._Mars-18.bin.21.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:67.4%[S:66.6%,D:0.8%],F:3.7%,M:28.9%,n:758	   
+	511	Complete BUSCOs (C)			   
+	505	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	28	Fragmented BUSCOs (F)			   
+	219	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-18.bin.66/predict_results/Fungi_sp._Mars-18.bin.66.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:75.9%[S:74.1%,D:1.7%],F:5.4%,M:18.7%,n:758	   
+	575	Complete BUSCOs (C)			   
+	562	Complete and single-copy BUSCOs (S)	   
+	13	Complete and duplicated BUSCOs (D)	   
+	41	Fragmented BUSCOs (F)			   
+	142	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-18.bin.76/predict_results/Fungi_sp._Mars-18.bin.76.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:63.6%[S:63.1%,D:0.5%],F:1.7%,M:34.7%,n:758	   
+	482	Complete BUSCOs (C)			   
+	478	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	263	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-18.bin.86/predict_results/Fungi_sp._Mars-18.bin.86.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.0%[S:91.4%,D:0.5%],F:2.0%,M:6.1%,n:758	   
+	697	Complete BUSCOs (C)			   
+	693	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	46	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-19.bin.11/predict_results/Fungi_sp._Mars-19.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.7%[S:91.0%,D:0.7%],F:1.2%,M:7.1%,n:758	   
+	695	Complete BUSCOs (C)			   
+	690	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	54	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-19.bin.32/predict_results/Fungi_sp._Mars-19.bin.32.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:78.9%[S:78.6%,D:0.3%],F:0.7%,M:20.4%,n:758	   
+	598	Complete BUSCOs (C)			   
+	596	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	155	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-19.bin.38/predict_results/Fungi_sp._Mars-19.bin.38.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:57.0%[S:57.0%,D:0.0%],F:7.5%,M:35.5%,n:758	   
+	432	Complete BUSCOs (C)			   
+	432	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	57	Fragmented BUSCOs (F)			   
+	269	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-19.bin.51/predict_results/Fungi_sp._Mars-19.bin.51.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.3%[S:94.2%,D:0.1%],F:0.8%,M:4.9%,n:758	   
+	715	Complete BUSCOs (C)			   
+	714	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	37	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.122/predict_results/Fungi_sp._Mars-1.bin.122.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:66.2%[S:66.0%,D:0.3%],F:5.3%,M:28.5%,n:758	   
+	502	Complete BUSCOs (C)			   
+	500	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	40	Fragmented BUSCOs (F)			   
+	216	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.138/predict_results/Fungi_sp._Mars-1.bin.138.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.2%[S:87.1%,D:0.1%],F:4.2%,M:8.6%,n:758	   
+	661	Complete BUSCOs (C)			   
+	660	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	32	Fragmented BUSCOs (F)			   
+	65	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.20/predict_results/Fungi_sp._Mars-1.bin.20.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.2%[S:95.8%,D:0.4%],F:1.2%,M:2.6%,n:758	   
+	729	Complete BUSCOs (C)			   
+	726	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	20	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.40/predict_results/Fungi_sp._Mars-1.bin.40.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:75.5%[S:75.2%,D:0.3%],F:1.5%,M:23.1%,n:758	   
+	572	Complete BUSCOs (C)			   
+	570	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	175	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.54/predict_results/Fungi_sp._Mars-1.bin.54.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.8%[S:91.6%,D:0.3%],F:1.7%,M:6.5%,n:758	   
+	696	Complete BUSCOs (C)			   
+	694	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	49	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-1.bin.89/predict_results/Fungi_sp._Mars-1.bin.89.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.9%[S:95.4%,D:0.5%],F:1.1%,M:3.0%,n:758	   
+	727	Complete BUSCOs (C)			   
+	723	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	23	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-20.bin.109/predict_results/Fungi_sp._Mars-20.bin.109.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:76.8%[S:76.6%,D:0.1%],F:5.8%,M:17.4%,n:758	   
+	582	Complete BUSCOs (C)			   
+	581	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	44	Fragmented BUSCOs (F)			   
+	132	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-20.bin.57/predict_results/Fungi_sp._Mars-20.bin.57.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.4%[S:95.3%,D:0.1%],F:1.1%,M:3.6%,n:758	   
+	723	Complete BUSCOs (C)			   
+	722	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	27	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-20.bin.71/predict_results/Fungi_sp._Mars-20.bin.71.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:39.7%[S:38.4%,D:1.3%],F:14.0%,M:46.3%,n:758	   
+	301	Complete BUSCOs (C)			   
+	291	Complete and single-copy BUSCOs (S)	   
+	10	Complete and duplicated BUSCOs (D)	   
+	106	Fragmented BUSCOs (F)			   
+	351	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-20.bin.79/predict_results/Fungi_sp._Mars-20.bin.79.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:78.6%[S:78.5%,D:0.1%],F:1.2%,M:20.2%,n:758	   
+	596	Complete BUSCOs (C)			   
+	595	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	153	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-23.bin.113/predict_results/Fungi_sp._Mars-23.bin.113.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.6%[S:89.2%,D:0.4%],F:2.0%,M:8.4%,n:758	   
+	679	Complete BUSCOs (C)			   
+	676	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	64	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-23.bin.119/predict_results/Fungi_sp._Mars-23.bin.119.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:72.7%[S:72.2%,D:0.5%],F:1.7%,M:25.6%,n:758	   
+	551	Complete BUSCOs (C)			   
+	547	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	194	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-23.bin.49/predict_results/Fungi_sp._Mars-23.bin.49.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:74.7%[S:74.5%,D:0.1%],F:1.2%,M:24.1%,n:758	   
+	566	Complete BUSCOs (C)			   
+	565	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	183	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-24.bin.24/predict_results/Fungi_sp._Mars-24.bin.24.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:70.8%[S:70.6%,D:0.3%],F:1.6%,M:27.6%,n:758	   
+	537	Complete BUSCOs (C)			   
+	535	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	209	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-24.bin.26/predict_results/Fungi_sp._Mars-24.bin.26.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.4%[S:90.2%,D:1.2%],F:1.5%,M:7.1%,n:758	   
+	693	Complete BUSCOs (C)			   
+	684	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	54	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-24.bin.27/predict_results/Fungi_sp._Mars-24.bin.27.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.6%[S:92.2%,D:2.4%],F:1.3%,M:4.1%,n:758	   
+	717	Complete BUSCOs (C)			   
+	699	Complete and single-copy BUSCOs (S)	   
+	18	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	31	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-24.bin.89/predict_results/Fungi_sp._Mars-24.bin.89.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:70.1%[S:69.8%,D:0.3%],F:1.5%,M:28.5%,n:758	   
+	531	Complete BUSCOs (C)			   
+	529	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	216	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-24.bin.8/predict_results/Fungi_sp._Mars-24.bin.8.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.2%[S:78.9%,D:0.3%],F:3.8%,M:17.0%,n:758	   
+	600	Complete BUSCOs (C)			   
+	598	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	29	Fragmented BUSCOs (F)			   
+	129	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-25.bin.11/predict_results/Fungi_sp._Mars-25.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:69.5%[S:69.3%,D:0.3%],F:0.9%,M:29.6%,n:758	   
+	527	Complete BUSCOs (C)			   
+	525	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	224	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-25.bin.16/predict_results/Fungi_sp._Mars-25.bin.16.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.5%[S:95.1%,D:0.4%],F:1.1%,M:3.4%,n:758	   
+	724	Complete BUSCOs (C)			   
+	721	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	26	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-25.bin.42/predict_results/Fungi_sp._Mars-25.bin.42.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.9%[S:86.1%,D:2.8%],F:1.8%,M:9.2%,n:758	   
+	674	Complete BUSCOs (C)			   
+	653	Complete and single-copy BUSCOs (S)	   
+	21	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	70	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-25.bin.4/predict_results/Fungi_sp._Mars-25.bin.4.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.0%[S:91.8%,D:0.1%],F:1.6%,M:6.5%,n:758	   
+	697	Complete BUSCOs (C)			   
+	696	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	49	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-25.bin.68/predict_results/Fungi_sp._Mars-25.bin.68.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.3%[S:96.0%,D:0.3%],F:1.3%,M:2.4%,n:758	   
+	730	Complete BUSCOs (C)			   
+	728	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	18	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-26.bin.113/predict_results/Fungi_sp._Mars-26.bin.113.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.6%[S:79.3%,D:0.3%],F:1.3%,M:19.1%,n:758	   
+	603	Complete BUSCOs (C)			   
+	601	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	145	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-26.bin.52/predict_results/Fungi_sp._Mars-26.bin.52.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.0%[S:94.7%,D:0.3%],F:1.3%,M:3.7%,n:758	   
+	720	Complete BUSCOs (C)			   
+	718	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	28	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-26.bin.81/predict_results/Fungi_sp._Mars-26.bin.81.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.1%[S:94.7%,D:0.4%],F:0.7%,M:4.2%,n:758	   
+	721	Complete BUSCOs (C)			   
+	718	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	32	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-26.bin.93/predict_results/Fungi_sp._Mars-26.bin.93.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.9%[S:81.4%,D:0.5%],F:4.0%,M:14.1%,n:758	   
+	621	Complete BUSCOs (C)			   
+	617	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	30	Fragmented BUSCOs (F)			   
+	107	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-27b.bin.11/predict_results/Fungi_sp._Mars-27b.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:80.5%[S:80.3%,D:0.1%],F:1.2%,M:18.3%,n:758	   
+	610	Complete BUSCOs (C)			   
+	609	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	139	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-27b.bin.5/predict_results/Fungi_sp._Mars-27b.bin.5.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.1%[S:88.0%,D:0.1%],F:4.4%,M:7.5%,n:758	   
+	668	Complete BUSCOs (C)			   
+	667	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	33	Fragmented BUSCOs (F)			   
+	57	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-28.bin.37/predict_results/Fungi_sp._Mars-28.bin.37.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:26.9%[S:26.5%,D:0.4%],F:21.5%,M:51.6%,n:758	   
+	204	Complete BUSCOs (C)			   
+	201	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	163	Fragmented BUSCOs (F)			   
+	391	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-28.bin.42/predict_results/Fungi_sp._Mars-28.bin.42.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:47.5%[S:47.1%,D:0.4%],F:7.1%,M:45.4%,n:758	   
+	360	Complete BUSCOs (C)			   
+	357	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	54	Fragmented BUSCOs (F)			   
+	344	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-29.bin.19/predict_results/Fungi_sp._Mars-29.bin.19.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:74.4%[S:74.0%,D:0.4%],F:2.6%,M:23.0%,n:758	   
+	564	Complete BUSCOs (C)			   
+	561	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	20	Fragmented BUSCOs (F)			   
+	174	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-29.bin.71/predict_results/Fungi_sp._Mars-29.bin.71.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.7%[S:91.4%,D:0.3%],F:1.5%,M:6.9%,n:758	   
+	695	Complete BUSCOs (C)			   
+	693	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	52	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-2.bin.104/predict_results/Fungi_sp._Mars-2.bin.104.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.3%[S:90.9%,D:0.4%],F:1.1%,M:7.7%,n:758	   
+	692	Complete BUSCOs (C)			   
+	689	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	58	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-2.bin.151/predict_results/Fungi_sp._Mars-2.bin.151.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.1%[S:92.2%,D:1.8%],F:1.6%,M:4.4%,n:758	   
+	713	Complete BUSCOs (C)			   
+	699	Complete and single-copy BUSCOs (S)	   
+	14	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	33	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-2.bin.177/predict_results/Fungi_sp._Mars-2.bin.177.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:59.2%[S:59.1%,D:0.1%],F:2.9%,M:37.9%,n:758	   
+	449	Complete BUSCOs (C)			   
+	448	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	22	Fragmented BUSCOs (F)			   
+	287	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-2.bin.67/predict_results/Fungi_sp._Mars-2.bin.67.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.2%[S:93.7%,D:0.5%],F:1.2%,M:4.6%,n:758	   
+	714	Complete BUSCOs (C)			   
+	710	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	35	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-30.bin.57/predict_results/Fungi_sp._Mars-30.bin.57.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:67.7%[S:67.3%,D:0.4%],F:3.4%,M:28.9%,n:758	   
+	513	Complete BUSCOs (C)			   
+	510	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	26	Fragmented BUSCOs (F)			   
+	219	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-30.bin.70/predict_results/Fungi_sp._Mars-30.bin.70.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:78.4%[S:78.1%,D:0.3%],F:1.3%,M:20.3%,n:758	   
+	594	Complete BUSCOs (C)			   
+	592	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	154	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-31.bin.11/predict_results/Fungi_sp._Mars-31.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.0%[S:92.9%,D:0.1%],F:1.5%,M:5.5%,n:758	   
+	705	Complete BUSCOs (C)			   
+	704	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	42	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-31.bin.94/predict_results/Fungi_sp._Mars-31.bin.94.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.4%[S:80.5%,D:0.9%],F:4.5%,M:14.1%,n:758	   
+	617	Complete BUSCOs (C)			   
+	610	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	34	Fragmented BUSCOs (F)			   
+	107	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-32.bin.1/predict_results/Fungi_sp._Mars-32.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.8%[S:91.7%,D:0.1%],F:1.2%,M:7.0%,n:758	   
+	696	Complete BUSCOs (C)			   
+	695	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	53	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-32.bin.89/predict_results/Fungi_sp._Mars-32.bin.89.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.2%[S:88.8%,D:0.4%],F:1.8%,M:9.0%,n:758	   
+	676	Complete BUSCOs (C)			   
+	673	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	68	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-33.bin.87/predict_results/Fungi_sp._Mars-33.bin.87.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.0%[S:89.8%,D:0.1%],F:2.6%,M:7.4%,n:758	   
+	682	Complete BUSCOs (C)			   
+	681	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	20	Fragmented BUSCOs (F)			   
+	56	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-34.bin.110/predict_results/Fungi_sp._Mars-34.bin.110.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:43.1%[S:43.0%,D:0.1%],F:2.1%,M:54.7%,n:758	   
+	327	Complete BUSCOs (C)			   
+	326	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	415	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-34.bin.55/predict_results/Fungi_sp._Mars-34.bin.55.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:40.8%[S:39.8%,D:0.9%],F:15.0%,M:44.2%,n:758	   
+	309	Complete BUSCOs (C)			   
+	302	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	114	Fragmented BUSCOs (F)			   
+	335	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-34.bin.83/predict_results/Fungi_sp._Mars-34.bin.83.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:75.9%[S:75.7%,D:0.1%],F:1.7%,M:22.4%,n:758	   
+	575	Complete BUSCOs (C)			   
+	574	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	170	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-35.bin.58/predict_results/Fungi_sp._Mars-35.bin.58.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:54.9%[S:54.6%,D:0.3%],F:1.8%,M:43.3%,n:758	   
+	416	Complete BUSCOs (C)			   
+	414	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	328	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-35.bin.6/predict_results/Fungi_sp._Mars-35.bin.6.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:39.7%[S:38.5%,D:1.2%],F:14.1%,M:46.2%,n:758	   
+	301	Complete BUSCOs (C)			   
+	292	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	107	Fragmented BUSCOs (F)			   
+	350	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-36.bin.40/predict_results/Fungi_sp._Mars-36.bin.40.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:85.5%[S:85.4%,D:0.1%],F:1.5%,M:13.1%,n:758	   
+	648	Complete BUSCOs (C)			   
+	647	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	99	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-36.bin.92/predict_results/Fungi_sp._Mars-36.bin.92.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.6%[S:91.3%,D:0.3%],F:0.8%,M:7.7%,n:758	   
+	694	Complete BUSCOs (C)			   
+	692	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	58	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-38.bin.101/predict_results/Fungi_sp._Mars-38.bin.101.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:45.6%[S:44.7%,D:0.9%],F:11.2%,M:43.1%,n:758	   
+	346	Complete BUSCOs (C)			   
+	339	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	85	Fragmented BUSCOs (F)			   
+	327	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-39.bin.19/predict_results/Fungi_sp._Mars-39.bin.19.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.0%[S:88.3%,D:4.7%],F:1.5%,M:5.5%,n:758	   
+	705	Complete BUSCOs (C)			   
+	669	Complete and single-copy BUSCOs (S)	   
+	36	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	42	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-39.bin.88/predict_results/Fungi_sp._Mars-39.bin.88.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.7%[S:92.6%,D:1.1%],F:2.5%,M:3.8%,n:758	   
+	710	Complete BUSCOs (C)			   
+	702	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	19	Fragmented BUSCOs (F)			   
+	29	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-3.bin.16/predict_results/Fungi_sp._Mars-3.bin.16.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.6%[S:87.3%,D:0.3%],F:2.5%,M:9.9%,n:758	   
+	664	Complete BUSCOs (C)			   
+	662	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	19	Fragmented BUSCOs (F)			   
+	75	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-3.bin.40/predict_results/Fungi_sp._Mars-3.bin.40.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.3%[S:79.0%,D:0.3%],F:1.5%,M:19.3%,n:758	   
+	601	Complete BUSCOs (C)			   
+	599	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	146	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-40.bin.22/predict_results/Fungi_sp._Mars-40.bin.22.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:76.8%[S:72.8%,D:4.0%],F:6.6%,M:16.6%,n:758	   
+	582	Complete BUSCOs (C)			   
+	552	Complete and single-copy BUSCOs (S)	   
+	30	Complete and duplicated BUSCOs (D)	   
+	50	Fragmented BUSCOs (F)			   
+	126	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-41.bin.125/predict_results/Fungi_sp._Mars-41.bin.125.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.4%[S:90.4%,D:1.1%],F:3.7%,M:4.9%,n:758	   
+	693	Complete BUSCOs (C)			   
+	685	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	28	Fragmented BUSCOs (F)			   
+	37	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-41.bin.73/predict_results/Fungi_sp._Mars-41.bin.73.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:61.6%[S:61.5%,D:0.1%],F:1.3%,M:37.1%,n:758	   
+	467	Complete BUSCOs (C)			   
+	466	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	281	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-42.bin.1/predict_results/Fungi_sp._Mars-42.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.9%[S:90.2%,D:0.7%],F:2.1%,M:7.0%,n:758	   
+	689	Complete BUSCOs (C)			   
+	684	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	53	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-42.bin.96/predict_results/Fungi_sp._Mars-42.bin.96.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:54.9%[S:54.9%,D:0.0%],F:4.5%,M:40.6%,n:758	   
+	416	Complete BUSCOs (C)			   
+	416	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	34	Fragmented BUSCOs (F)			   
+	308	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-43.bin.48/predict_results/Fungi_sp._Mars-43.bin.48.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:66.5%[S:61.7%,D:4.7%],F:8.6%,M:24.9%,n:758	   
+	504	Complete BUSCOs (C)			   
+	468	Complete and single-copy BUSCOs (S)	   
+	36	Complete and duplicated BUSCOs (D)	   
+	65	Fragmented BUSCOs (F)			   
+	189	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-44.bin.26/predict_results/Fungi_sp._Mars-44.bin.26.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:73.1%[S:73.0%,D:0.1%],F:7.9%,M:19.0%,n:758	   
+	554	Complete BUSCOs (C)			   
+	553	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	60	Fragmented BUSCOs (F)			   
+	144	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-44.bin.8/predict_results/Fungi_sp._Mars-44.bin.8.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.3%[S:90.5%,D:0.8%],F:3.6%,M:5.1%,n:758	   
+	692	Complete BUSCOs (C)			   
+	686	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	27	Fragmented BUSCOs (F)			   
+	39	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-45.bin.181/predict_results/Fungi_sp._Mars-45.bin.181.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:36.1%[S:35.2%,D:0.9%],F:15.2%,M:48.7%,n:758	   
+	274	Complete BUSCOs (C)			   
+	267	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	115	Fragmented BUSCOs (F)			   
+	369	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-45.bin.183/predict_results/Fungi_sp._Mars-45.bin.183.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.7%[S:81.3%,D:0.4%],F:1.7%,M:16.6%,n:758	   
+	619	Complete BUSCOs (C)			   
+	616	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	126	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-45.bin.74/predict_results/Fungi_sp._Mars-45.bin.74.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:97.4%[S:97.2%,D:0.1%],F:0.8%,M:1.8%,n:758	   
+	738	Complete BUSCOs (C)			   
+	737	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	14	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-46.bin.111/predict_results/Fungi_sp._Mars-46.bin.111.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:65.6%[S:65.4%,D:0.1%],F:6.5%,M:28.0%,n:758	   
+	497	Complete BUSCOs (C)			   
+	496	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	49	Fragmented BUSCOs (F)			   
+	212	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-4b.bin.17/predict_results/Fungi_sp._Mars-4b.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:80.1%[S:79.8%,D:0.3%],F:1.5%,M:18.5%,n:758	   
+	607	Complete BUSCOs (C)			   
+	605	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	140	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-4b.bin.9/predict_results/Fungi_sp._Mars-4b.bin.9.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:66.8%[S:66.6%,D:0.1%],F:1.3%,M:31.9%,n:758	   
+	506	Complete BUSCOs (C)			   
+	505	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	242	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-50b.bin.11/predict_results/Fungi_sp._Mars-50b.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.5%[S:90.4%,D:0.1%],F:0.8%,M:8.7%,n:758	   
+	686	Complete BUSCOs (C)			   
+	685	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	66	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-50b.bin.3/predict_results/Fungi_sp._Mars-50b.bin.3.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:33.1%[S:32.5%,D:0.7%],F:19.8%,M:47.1%,n:758	   
+	251	Complete BUSCOs (C)			   
+	246	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	150	Fragmented BUSCOs (F)			   
+	357	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-52.bin.17/predict_results/Fungi_sp._Mars-52.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.2%[S:90.0%,D:0.3%],F:1.3%,M:8.4%,n:758	   
+	684	Complete BUSCOs (C)			   
+	682	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	64	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-52.bin.25/predict_results/Fungi_sp._Mars-52.bin.25.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.1%[S:88.7%,D:0.4%],F:2.4%,M:8.6%,n:758	   
+	675	Complete BUSCOs (C)			   
+	672	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	65	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-52.bin.44/predict_results/Fungi_sp._Mars-52.bin.44.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.5%[S:94.1%,D:0.4%],F:1.7%,M:3.8%,n:758	   
+	716	Complete BUSCOs (C)			   
+	713	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	29	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-52.bin.65/predict_results/Fungi_sp._Mars-52.bin.65.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.1%[S:88.9%,D:0.1%],F:0.8%,M:10.2%,n:758	   
+	675	Complete BUSCOs (C)			   
+	674	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	77	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-53.bin.20/predict_results/Fungi_sp._Mars-53.bin.20.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:86.4%[S:85.5%,D:0.9%],F:4.0%,M:9.6%,n:758	   
+	655	Complete BUSCOs (C)			   
+	648	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	30	Fragmented BUSCOs (F)			   
+	73	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-53.bin.43/predict_results/Fungi_sp._Mars-53.bin.43.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:68.2%[S:68.1%,D:0.1%],F:1.1%,M:30.7%,n:758	   
+	517	Complete BUSCOs (C)			   
+	516	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	233	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-53.bin.66/predict_results/Fungi_sp._Mars-53.bin.66.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.3%[S:92.0%,D:0.4%],F:0.9%,M:6.7%,n:758	   
+	700	Complete BUSCOs (C)			   
+	697	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	51	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-53.bin.9/predict_results/Fungi_sp._Mars-53.bin.9.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.4%[S:79.2%,D:0.3%],F:4.6%,M:16.0%,n:758	   
+	602	Complete BUSCOs (C)			   
+	600	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	35	Fragmented BUSCOs (F)			   
+	121	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-54.bin.17/predict_results/Fungi_sp._Mars-54.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:72.6%[S:72.4%,D:0.1%],F:2.2%,M:25.2%,n:758	   
+	550	Complete BUSCOs (C)			   
+	549	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	191	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-54.bin.38/predict_results/Fungi_sp._Mars-54.bin.38.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.7%[S:92.3%,D:2.4%],F:1.1%,M:4.2%,n:758	   
+	718	Complete BUSCOs (C)			   
+	700	Complete and single-copy BUSCOs (S)	   
+	18	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	32	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-54.bin.43/predict_results/Fungi_sp._Mars-54.bin.43.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:42.3%[S:41.6%,D:0.8%],F:13.7%,M:43.9%,n:758	   
+	321	Complete BUSCOs (C)			   
+	315	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	104	Fragmented BUSCOs (F)			   
+	333	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-55.bin.28/predict_results/Fungi_sp._Mars-55.bin.28.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.7%[S:81.3%,D:0.4%],F:5.5%,M:12.8%,n:758	   
+	619	Complete BUSCOs (C)			   
+	616	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	42	Fragmented BUSCOs (F)			   
+	97	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-55.bin.48/predict_results/Fungi_sp._Mars-55.bin.48.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:59.8%[S:59.5%,D:0.3%],F:1.6%,M:38.7%,n:758	   
+	453	Complete BUSCOs (C)			   
+	451	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	293	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-55.bin.4/predict_results/Fungi_sp._Mars-55.bin.4.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.6%[S:96.4%,D:0.1%],F:1.2%,M:2.2%,n:758	   
+	732	Complete BUSCOs (C)			   
+	731	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	17	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-55.bin.6/predict_results/Fungi_sp._Mars-55.bin.6.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:41.8%[S:41.2%,D:0.7%],F:14.4%,M:43.8%,n:758	   
+	317	Complete BUSCOs (C)			   
+	312	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	109	Fragmented BUSCOs (F)			   
+	332	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-56.bin.111/predict_results/Fungi_sp._Mars-56.bin.111.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:50.5%[S:50.5%,D:0.0%],F:0.9%,M:48.5%,n:758	   
+	383	Complete BUSCOs (C)			   
+	383	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	368	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-57b.bin.170/predict_results/Fungi_sp._Mars-57b.bin.170.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:28.8%[S:28.5%,D:0.3%],F:19.8%,M:51.5%,n:758	   
+	218	Complete BUSCOs (C)			   
+	216	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	150	Fragmented BUSCOs (F)			   
+	390	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-57b.bin.28/predict_results/Fungi_sp._Mars-57b.bin.28.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:63.6%[S:63.5%,D:0.1%],F:2.4%,M:34.0%,n:758	   
+	482	Complete BUSCOs (C)			   
+	481	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	258	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-57b.bin.53/predict_results/Fungi_sp._Mars-57b.bin.53.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.8%[S:87.9%,D:0.9%],F:1.2%,M:10.0%,n:758	   
+	673	Complete BUSCOs (C)			   
+	666	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	76	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-57b.bin.96/predict_results/Fungi_sp._Mars-57b.bin.96.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.5%[S:93.4%,D:0.1%],F:0.9%,M:5.5%,n:758	   
+	709	Complete BUSCOs (C)			   
+	708	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	42	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-58.bin.107/predict_results/Fungi_sp._Mars-58.bin.107.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.6%[S:96.0%,D:0.5%],F:0.4%,M:3.0%,n:758	   
+	732	Complete BUSCOs (C)			   
+	728	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	3	Fragmented BUSCOs (F)			   
+	23	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-58.bin.15/predict_results/Fungi_sp._Mars-58.bin.15.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.5%[S:86.7%,D:1.8%],F:4.1%,M:7.4%,n:758	   
+	671	Complete BUSCOs (C)			   
+	657	Complete and single-copy BUSCOs (S)	   
+	14	Complete and duplicated BUSCOs (D)	   
+	31	Fragmented BUSCOs (F)			   
+	56	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-5.bin.32/predict_results/Fungi_sp._Mars-5.bin.32.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.5%[S:94.3%,D:0.1%],F:0.7%,M:4.9%,n:758	   
+	716	Complete BUSCOs (C)			   
+	715	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	37	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-5.bin.41/predict_results/Fungi_sp._Mars-5.bin.41.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:56.3%[S:56.2%,D:0.1%],F:8.2%,M:35.5%,n:758	   
+	427	Complete BUSCOs (C)			   
+	426	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	62	Fragmented BUSCOs (F)			   
+	269	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-60b.bin.40/predict_results/Fungi_sp._Mars-60b.bin.40.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.1%[S:92.7%,D:0.4%],F:1.6%,M:5.3%,n:758	   
+	706	Complete BUSCOs (C)			   
+	703	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	40	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-60b.bin.66/predict_results/Fungi_sp._Mars-60b.bin.66.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.8%[S:79.6%,D:0.3%],F:5.5%,M:14.6%,n:758	   
+	605	Complete BUSCOs (C)			   
+	603	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	42	Fragmented BUSCOs (F)			   
+	111	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-60b.bin.81/predict_results/Fungi_sp._Mars-60b.bin.81.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.2%[S:93.7%,D:0.5%],F:1.3%,M:4.5%,n:758	   
+	714	Complete BUSCOs (C)			   
+	710	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	34	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-60b.bin.88/predict_results/Fungi_sp._Mars-60b.bin.88.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:51.6%[S:51.5%,D:0.1%],F:1.7%,M:46.7%,n:758	   
+	391	Complete BUSCOs (C)			   
+	390	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	354	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-61.bin.38/predict_results/Fungi_sp._Mars-61.bin.38.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:61.2%[S:60.2%,D:1.1%],F:0.9%,M:37.9%,n:758	   
+	464	Complete BUSCOs (C)			   
+	456	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	287	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-61.bin.58/predict_results/Fungi_sp._Mars-61.bin.58.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:39.1%[S:38.1%,D:0.9%],F:13.5%,M:47.5%,n:758	   
+	296	Complete BUSCOs (C)			   
+	289	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	102	Fragmented BUSCOs (F)			   
+	360	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-62.bin.10/predict_results/Fungi_sp._Mars-62.bin.10.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:72.0%[S:71.9%,D:0.1%],F:1.3%,M:26.6%,n:758	   
+	546	Complete BUSCOs (C)			   
+	545	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	202	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-62.bin.17/predict_results/Fungi_sp._Mars-62.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.4%[S:90.0%,D:0.4%],F:2.9%,M:6.7%,n:758	   
+	685	Complete BUSCOs (C)			   
+	682	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	22	Fragmented BUSCOs (F)			   
+	51	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-62.bin.37/predict_results/Fungi_sp._Mars-62.bin.37.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.9%[S:88.8%,D:0.1%],F:1.3%,M:9.8%,n:758	   
+	674	Complete BUSCOs (C)			   
+	673	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	74	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-62.bin.6/predict_results/Fungi_sp._Mars-62.bin.6.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:84.6%[S:84.4%,D:0.1%],F:4.9%,M:10.6%,n:758	   
+	641	Complete BUSCOs (C)			   
+	640	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	37	Fragmented BUSCOs (F)			   
+	80	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-63.bin.30/predict_results/Fungi_sp._Mars-63.bin.30.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.0%[S:91.7%,D:0.3%],F:0.5%,M:7.5%,n:758	   
+	697	Complete BUSCOs (C)			   
+	695	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	4	Fragmented BUSCOs (F)			   
+	57	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-63.bin.44/predict_results/Fungi_sp._Mars-63.bin.44.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:37.9%[S:36.8%,D:1.1%],F:15.0%,M:47.1%,n:758	   
+	287	Complete BUSCOs (C)			   
+	279	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	114	Fragmented BUSCOs (F)			   
+	357	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-63.bin.60/predict_results/Fungi_sp._Mars-63.bin.60.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:64.1%[S:64.0%,D:0.1%],F:1.3%,M:34.6%,n:758	   
+	486	Complete BUSCOs (C)			   
+	485	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	262	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.101/predict_results/Fungi_sp._Mars-64.bin.101.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.0%[S:90.9%,D:0.1%],F:1.3%,M:7.7%,n:758	   
+	690	Complete BUSCOs (C)			   
+	689	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	58	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.118/predict_results/Fungi_sp._Mars-64.bin.118.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:85.0%[S:85.0%,D:0.0%],F:3.8%,M:11.2%,n:758	   
+	644	Complete BUSCOs (C)			   
+	644	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	29	Fragmented BUSCOs (F)			   
+	85	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.17/predict_results/Fungi_sp._Mars-64.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:49.6%[S:49.1%,D:0.5%],F:1.8%,M:48.5%,n:758	   
+	376	Complete BUSCOs (C)			   
+	372	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	368	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.18/predict_results/Fungi_sp._Mars-64.bin.18.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:53.8%[S:50.7%,D:3.2%],F:1.7%,M:44.5%,n:758	   
+	408	Complete BUSCOs (C)			   
+	384	Complete and single-copy BUSCOs (S)	   
+	24	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	337	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.26/predict_results/Fungi_sp._Mars-64.bin.26.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:22.7%[S:22.2%,D:0.5%],F:20.7%,M:56.6%,n:758	   
+	172	Complete BUSCOs (C)			   
+	168	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	157	Fragmented BUSCOs (F)			   
+	429	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.54/predict_results/Fungi_sp._Mars-64.bin.54.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:84.8%[S:77.2%,D:7.7%],F:2.1%,M:13.1%,n:758	   
+	643	Complete BUSCOs (C)			   
+	585	Complete and single-copy BUSCOs (S)	   
+	58	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	99	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-64.bin.82/predict_results/Fungi_sp._Mars-64.bin.82.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:50.5%[S:50.5%,D:0.0%],F:4.5%,M:45.0%,n:758	   
+	383	Complete BUSCOs (C)			   
+	383	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	34	Fragmented BUSCOs (F)			   
+	341	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-65.bin.19/predict_results/Fungi_sp._Mars-65.bin.19.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.7%[S:96.4%,D:0.3%],F:0.8%,M:2.5%,n:758	   
+	733	Complete BUSCOs (C)			   
+	731	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	19	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-65.bin.54/predict_results/Fungi_sp._Mars-65.bin.54.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.0%[S:91.7%,D:0.3%],F:1.5%,M:6.6%,n:758	   
+	697	Complete BUSCOs (C)			   
+	695	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	50	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-68.bin.26/predict_results/Fungi_sp._Mars-68.bin.26.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:80.1%[S:79.6%,D:0.5%],F:2.0%,M:17.9%,n:758	   
+	607	Complete BUSCOs (C)			   
+	603	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	136	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-68.bin.27/predict_results/Fungi_sp._Mars-68.bin.27.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:23.4%[S:22.7%,D:0.7%],F:17.5%,M:59.1%,n:758	   
+	177	Complete BUSCOs (C)			   
+	172	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	133	Fragmented BUSCOs (F)			   
+	448	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-69.bin.4/predict_results/Fungi_sp._Mars-69.bin.4.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:82.3%[S:82.2%,D:0.1%],F:1.3%,M:16.4%,n:758	   
+	624	Complete BUSCOs (C)			   
+	623	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	124	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-6.bin.17/predict_results/Fungi_sp._Mars-6.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:85.9%[S:85.6%,D:0.3%],F:1.3%,M:12.8%,n:758	   
+	651	Complete BUSCOs (C)			   
+	649	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	97	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-71.bin.43/predict_results/Fungi_sp._Mars-71.bin.43.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:85.6%[S:85.5%,D:0.1%],F:4.1%,M:10.3%,n:758	   
+	649	Complete BUSCOs (C)			   
+	648	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	31	Fragmented BUSCOs (F)			   
+	78	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-71.bin.46/predict_results/Fungi_sp._Mars-71.bin.46.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.2%[S:95.8%,D:0.4%],F:1.8%,M:2.0%,n:758	   
+	729	Complete BUSCOs (C)			   
+	726	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	15	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-71.bin.78/predict_results/Fungi_sp._Mars-71.bin.78.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.3%[S:88.0%,D:0.3%],F:0.7%,M:11.1%,n:758	   
+	669	Complete BUSCOs (C)			   
+	667	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	84	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-72.bin.26/predict_results/Fungi_sp._Mars-72.bin.26.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:76.1%[S:76.0%,D:0.1%],F:1.6%,M:22.3%,n:758	   
+	577	Complete BUSCOs (C)			   
+	576	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	169	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-73.bin.13/predict_results/Fungi_sp._Mars-73.bin.13.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:39.2%[S:38.3%,D:0.9%],F:14.1%,M:46.7%,n:758	   
+	297	Complete BUSCOs (C)			   
+	290	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	107	Fragmented BUSCOs (F)			   
+	354	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-73.bin.31/predict_results/Fungi_sp._Mars-73.bin.31.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.9%[S:94.1%,D:0.8%],F:1.1%,M:4.1%,n:758	   
+	719	Complete BUSCOs (C)			   
+	713	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	31	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-73.bin.63/predict_results/Fungi_sp._Mars-73.bin.63.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:43.3%[S:42.3%,D:0.9%],F:13.7%,M:43.0%,n:758	   
+	328	Complete BUSCOs (C)			   
+	321	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	104	Fragmented BUSCOs (F)			   
+	326	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-74.bin.5/predict_results/Fungi_sp._Mars-74.bin.5.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.8%[S:91.6%,D:0.3%],F:0.9%,M:7.3%,n:758	   
+	696	Complete BUSCOs (C)			   
+	694	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	7	Fragmented BUSCOs (F)			   
+	55	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-75b.bin.12/predict_results/Fungi_sp._Mars-75b.bin.12.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:84.3%[S:83.9%,D:0.4%],F:1.3%,M:14.4%,n:758	   
+	639	Complete BUSCOs (C)			   
+	636	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	109	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-75b.bin.17/predict_results/Fungi_sp._Mars-75b.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:24.4%[S:23.7%,D:0.7%],F:15.8%,M:59.8%,n:758	   
+	185	Complete BUSCOs (C)			   
+	180	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	120	Fragmented BUSCOs (F)			   
+	453	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-76.bin.31/predict_results/Fungi_sp._Mars-76.bin.31.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:64.1%[S:63.7%,D:0.4%],F:2.1%,M:33.8%,n:758	   
+	486	Complete BUSCOs (C)			   
+	483	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	256	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-76.bin.56/predict_results/Fungi_sp._Mars-76.bin.56.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:51.8%[S:51.8%,D:0.0%],F:1.7%,M:46.4%,n:758	   
+	393	Complete BUSCOs (C)			   
+	393	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	352	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-76.bin.7/predict_results/Fungi_sp._Mars-76.bin.7.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.7%[S:88.5%,D:1.2%],F:2.0%,M:8.3%,n:758	   
+	680	Complete BUSCOs (C)			   
+	671	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	63	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-78.bin.14/predict_results/Fungi_sp._Mars-78.bin.14.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:83.8%[S:83.6%,D:0.1%],F:5.8%,M:10.4%,n:758	   
+	635	Complete BUSCOs (C)			   
+	634	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	44	Fragmented BUSCOs (F)			   
+	79	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-78.bin.3/predict_results/Fungi_sp._Mars-78.bin.3.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:69.4%[S:69.3%,D:0.1%],F:1.7%,M:28.9%,n:758	   
+	526	Complete BUSCOs (C)			   
+	525	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	219	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-78.bin.5/predict_results/Fungi_sp._Mars-78.bin.5.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:42.9%[S:42.0%,D:0.9%],F:13.1%,M:44.1%,n:758	   
+	325	Complete BUSCOs (C)			   
+	318	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	99	Fragmented BUSCOs (F)			   
+	334	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-79.bin.22/predict_results/Fungi_sp._Mars-79.bin.22.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:84.2%[S:84.0%,D:0.1%],F:1.1%,M:14.8%,n:758	   
+	638	Complete BUSCOs (C)			   
+	637	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	112	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-79.bin.94/predict_results/Fungi_sp._Mars-79.bin.94.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:47.8%[S:47.6%,D:0.1%],F:9.0%,M:43.3%,n:758	   
+	362	Complete BUSCOs (C)			   
+	361	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	68	Fragmented BUSCOs (F)			   
+	328	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-7.bin.33/predict_results/Fungi_sp._Mars-7.bin.33.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.6%[S:86.9%,D:0.7%],F:1.5%,M:10.9%,n:758	   
+	664	Complete BUSCOs (C)			   
+	659	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	11	Fragmented BUSCOs (F)			   
+	83	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-80.bin.109/predict_results/Fungi_sp._Mars-80.bin.109.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:86.1%[S:85.9%,D:0.3%],F:2.1%,M:11.7%,n:758	   
+	653	Complete BUSCOs (C)			   
+	651	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	16	Fragmented BUSCOs (F)			   
+	89	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-80.bin.31/predict_results/Fungi_sp._Mars-80.bin.31.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:83.2%[S:83.0%,D:0.3%],F:1.3%,M:15.4%,n:758	   
+	631	Complete BUSCOs (C)			   
+	629	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	117	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-81.bin.1/predict_results/Fungi_sp._Mars-81.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:95.1%[S:95.0%,D:0.1%],F:1.1%,M:3.8%,n:758	   
+	721	Complete BUSCOs (C)			   
+	720	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	29	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-82.bin.10/predict_results/Fungi_sp._Mars-82.bin.10.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.1%[S:90.0%,D:0.1%],F:2.0%,M:7.9%,n:758	   
+	683	Complete BUSCOs (C)			   
+	682	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	60	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-82.bin.13/predict_results/Fungi_sp._Mars-82.bin.13.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:92.1%[S:91.8%,D:0.3%],F:2.0%,M:5.9%,n:758	   
+	698	Complete BUSCOs (C)			   
+	696	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	45	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-82.bin.1/predict_results/Fungi_sp._Mars-82.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.3%[S:96.0%,D:0.3%],F:0.8%,M:2.9%,n:758	   
+	730	Complete BUSCOs (C)			   
+	728	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	22	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-82.bin.5/predict_results/Fungi_sp._Mars-82.bin.5.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:23.6%[S:23.4%,D:0.3%],F:17.7%,M:58.7%,n:758	   
+	179	Complete BUSCOs (C)			   
+	177	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	134	Fragmented BUSCOs (F)			   
+	445	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-82.bin.9/predict_results/Fungi_sp._Mars-82.bin.9.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:89.7%[S:89.4%,D:0.3%],F:2.2%,M:8.0%,n:758	   
+	680	Complete BUSCOs (C)			   
+	678	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	61	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-83.bin.14/predict_results/Fungi_sp._Mars-83.bin.14.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:43.3%[S:42.3%,D:0.9%],F:13.1%,M:43.7%,n:758	   
+	328	Complete BUSCOs (C)			   
+	321	Complete and single-copy BUSCOs (S)	   
+	7	Complete and duplicated BUSCOs (D)	   
+	99	Fragmented BUSCOs (F)			   
+	331	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-83.bin.20/predict_results/Fungi_sp._Mars-83.bin.20.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:97.2%[S:96.4%,D:0.8%],F:1.2%,M:1.6%,n:758	   
+	737	Complete BUSCOs (C)			   
+	731	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	12	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-83.bin.9/predict_results/Fungi_sp._Mars-83.bin.9.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:47.0%[S:46.7%,D:0.3%],F:8.7%,M:44.3%,n:758	   
+	356	Complete BUSCOs (C)			   
+	354	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	66	Fragmented BUSCOs (F)			   
+	336	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-84.bin.107/predict_results/Fungi_sp._Mars-84.bin.107.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.4%[S:90.1%,D:0.3%],F:2.2%,M:7.4%,n:758	   
+	685	Complete BUSCOs (C)			   
+	683	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	56	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-84.bin.127/predict_results/Fungi_sp._Mars-84.bin.127.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:85.6%[S:85.4%,D:0.3%],F:1.3%,M:13.1%,n:758	   
+	649	Complete BUSCOs (C)			   
+	647	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	99	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-84.bin.139/predict_results/Fungi_sp._Mars-84.bin.139.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:79.3%[S:79.2%,D:0.1%],F:6.3%,M:14.4%,n:758	   
+	601	Complete BUSCOs (C)			   
+	600	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	48	Fragmented BUSCOs (F)			   
+	109	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-84.bin.14/predict_results/Fungi_sp._Mars-84.bin.14.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:65.2%[S:65.0%,D:0.1%],F:1.8%,M:33.0%,n:758	   
+	494	Complete BUSCOs (C)			   
+	493	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	14	Fragmented BUSCOs (F)			   
+	250	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-85b.bin.121/predict_results/Fungi_sp._Mars-85b.bin.121.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:66.6%[S:66.5%,D:0.1%],F:2.6%,M:30.7%,n:758	   
+	505	Complete BUSCOs (C)			   
+	504	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	20	Fragmented BUSCOs (F)			   
+	233	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-85b.bin.160/predict_results/Fungi_sp._Mars-85b.bin.160.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:41.2%[S:40.1%,D:1.1%],F:12.1%,M:46.7%,n:758	   
+	312	Complete BUSCOs (C)			   
+	304	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	92	Fragmented BUSCOs (F)			   
+	354	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-85b.bin.41/predict_results/Fungi_sp._Mars-85b.bin.41.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.1%[S:88.0%,D:0.1%],F:1.7%,M:10.2%,n:758	   
+	668	Complete BUSCOs (C)			   
+	667	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	77	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-85b.bin.93/predict_results/Fungi_sp._Mars-85b.bin.93.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:33.5%[S:32.7%,D:0.8%],F:17.9%,M:48.5%,n:758	   
+	254	Complete BUSCOs (C)			   
+	248	Complete and single-copy BUSCOs (S)	   
+	6	Complete and duplicated BUSCOs (D)	   
+	136	Fragmented BUSCOs (F)			   
+	368	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-86.bin.11/predict_results/Fungi_sp._Mars-86.bin.11.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.7%[S:96.3%,D:0.4%],F:0.7%,M:2.6%,n:758	   
+	733	Complete BUSCOs (C)			   
+	730	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	20	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-86.bin.1/predict_results/Fungi_sp._Mars-86.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.0%[S:90.9%,D:0.1%],F:2.0%,M:7.0%,n:758	   
+	690	Complete BUSCOs (C)			   
+	689	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	53	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-86.bin.20/predict_results/Fungi_sp._Mars-86.bin.20.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:97.5%[S:97.4%,D:0.1%],F:0.7%,M:1.8%,n:758	   
+	739	Complete BUSCOs (C)			   
+	738	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	14	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-87b.bin.14/predict_results/Fungi_sp._Mars-87b.bin.14.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:36.0%[S:35.4%,D:0.7%],F:15.2%,M:48.8%,n:758	   
+	273	Complete BUSCOs (C)			   
+	268	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	115	Fragmented BUSCOs (F)			   
+	370	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-87b.bin.15/predict_results/Fungi_sp._Mars-87b.bin.15.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:69.1%[S:69.0%,D:0.1%],F:1.7%,M:29.2%,n:758	   
+	524	Complete BUSCOs (C)			   
+	523	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	221	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-89b.bin.127/predict_results/Fungi_sp._Mars-89b.bin.127.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:38.8%[S:34.8%,D:4.0%],F:12.0%,M:49.2%,n:758	   
+	294	Complete BUSCOs (C)			   
+	264	Complete and single-copy BUSCOs (S)	   
+	30	Complete and duplicated BUSCOs (D)	   
+	91	Fragmented BUSCOs (F)			   
+	373	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-89b.bin.57/predict_results/Fungi_sp._Mars-89b.bin.57.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.1%[S:80.6%,D:0.5%],F:3.7%,M:15.2%,n:758	   
+	615	Complete BUSCOs (C)			   
+	611	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	28	Fragmented BUSCOs (F)			   
+	115	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-89b.bin.69/predict_results/Fungi_sp._Mars-89b.bin.69.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:72.3%[S:71.2%,D:1.1%],F:2.9%,M:24.8%,n:758	   
+	548	Complete BUSCOs (C)			   
+	540	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	22	Fragmented BUSCOs (F)			   
+	188	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-89b.bin.76/predict_results/Fungi_sp._Mars-89b.bin.76.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:84.2%[S:81.0%,D:3.2%],F:4.5%,M:11.3%,n:758	   
+	638	Complete BUSCOs (C)			   
+	614	Complete and single-copy BUSCOs (S)	   
+	24	Complete and duplicated BUSCOs (D)	   
+	34	Fragmented BUSCOs (F)			   
+	86	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-8b.bin.18/predict_results/Fungi_sp._Mars-8b.bin.18.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:42.2%[S:41.2%,D:1.1%],F:13.9%,M:43.9%,n:758	   
+	320	Complete BUSCOs (C)			   
+	312	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	105	Fragmented BUSCOs (F)			   
+	333	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-91.bin.12/predict_results/Fungi_sp._Mars-91.bin.12.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:75.5%[S:75.2%,D:0.3%],F:7.8%,M:16.8%,n:758	   
+	572	Complete BUSCOs (C)			   
+	570	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	59	Fragmented BUSCOs (F)			   
+	127	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-91.bin.27/predict_results/Fungi_sp._Mars-91.bin.27.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:69.8%[S:69.4%,D:0.4%],F:2.6%,M:27.6%,n:758	   
+	529	Complete BUSCOs (C)			   
+	526	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	20	Fragmented BUSCOs (F)			   
+	209	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-91.bin.36/predict_results/Fungi_sp._Mars-91.bin.36.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:61.7%[S:58.7%,D:3.0%],F:4.0%,M:34.3%,n:758	   
+	468	Complete BUSCOs (C)			   
+	445	Complete and single-copy BUSCOs (S)	   
+	23	Complete and duplicated BUSCOs (D)	   
+	30	Fragmented BUSCOs (F)			   
+	260	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-93.bin.105/predict_results/Fungi_sp._Mars-93.bin.105.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:81.5%[S:81.3%,D:0.3%],F:2.2%,M:16.2%,n:758	   
+	618	Complete BUSCOs (C)			   
+	616	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	123	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-93.bin.55/predict_results/Fungi_sp._Mars-93.bin.55.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:38.9%[S:37.9%,D:1.1%],F:14.2%,M:46.8%,n:758	   
+	295	Complete BUSCOs (C)			   
+	287	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	108	Fragmented BUSCOs (F)			   
+	355	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-93.bin.5/predict_results/Fungi_sp._Mars-93.bin.5.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.5%[S:93.3%,D:0.3%],F:1.3%,M:5.1%,n:758	   
+	709	Complete BUSCOs (C)			   
+	707	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	39	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-93.bin.97/predict_results/Fungi_sp._Mars-93.bin.97.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.2%[S:85.6%,D:1.6%],F:3.8%,M:9.0%,n:758	   
+	661	Complete BUSCOs (C)			   
+	649	Complete and single-copy BUSCOs (S)	   
+	12	Complete and duplicated BUSCOs (D)	   
+	29	Fragmented BUSCOs (F)			   
+	68	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-94.bin.130/predict_results/Fungi_sp._Mars-94.bin.130.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:75.3%[S:75.1%,D:0.3%],F:2.0%,M:22.7%,n:758	   
+	571	Complete BUSCOs (C)			   
+	569	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	15	Fragmented BUSCOs (F)			   
+	172	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-95.bin.12/predict_results/Fungi_sp._Mars-95.bin.12.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:88.1%[S:88.0%,D:0.1%],F:3.2%,M:8.7%,n:758	   
+	668	Complete BUSCOs (C)			   
+	667	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	24	Fragmented BUSCOs (F)			   
+	66	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-95.bin.15/predict_results/Fungi_sp._Mars-95.bin.15.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:78.4%[S:78.2%,D:0.1%],F:0.4%,M:21.2%,n:758	   
+	594	Complete BUSCOs (C)			   
+	593	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	3	Fragmented BUSCOs (F)			   
+	161	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-95.bin.17/predict_results/Fungi_sp._Mars-95.bin.17.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:64.5%[S:64.2%,D:0.3%],F:2.4%,M:33.1%,n:758	   
+	489	Complete BUSCOs (C)			   
+	487	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	251	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-9.bin.1/predict_results/Fungi_sp._Mars-9.bin.1.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:59.5%[S:59.2%,D:0.3%],F:6.7%,M:33.8%,n:758	   
+	451	Complete BUSCOs (C)			   
+	449	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	51	Fragmented BUSCOs (F)			   
+	256	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
+# BUSCO version is: 5.8.0 
+# The lineage dataset is: fungi_odb10 (Creation date: 2020-09-10, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Antarctica/Euk_MAGs_Claudio/Annotation/annotate/Mars-9.bin.52/predict_results/Fungi_sp._Mars-9.bin.52.proteins.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:90.2%[S:90.1%,D:0.1%],F:0.5%,M:9.2%,n:758	   
+	684	Complete BUSCOs (C)			   
+	683	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	4	Fragmented BUSCOs (F)			   
+	70	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.8.0
