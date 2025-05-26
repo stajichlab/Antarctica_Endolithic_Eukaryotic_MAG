@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p epyc -c 40 --mem 128gb --out logs/fungi5k_raxml.log
+#SBATCH -p epyc -c 40 --mem 128gb --out logs/fungi5k_raxml_custom.log
 
 module load raxml-ng
 

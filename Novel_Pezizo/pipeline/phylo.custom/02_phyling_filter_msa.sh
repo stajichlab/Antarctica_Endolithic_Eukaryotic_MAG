@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -c 96 --mem 96gb --out logs/filter_aln.%A.log
+#SBATCH -c 96 --mem 96gb --out logs/filter_aln_custom.%A.log
 module load phyling
 CPU=${SLURM_CPUS_ON_NODE}
 if [ -z $CPU ]; then

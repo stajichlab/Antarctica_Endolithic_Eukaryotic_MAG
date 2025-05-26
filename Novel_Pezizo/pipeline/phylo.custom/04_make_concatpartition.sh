@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -c 2 --mem 16gb --out logs/make_mfa_pep.%A.log
+#SBATCH -p short -c 2 --mem 16gb --out logs/make_mfa_pep_custom.%A.log
 CPU=${SLURM_CPUS_ON_NODE}
 if [ -z $CPU ]; then
     CPU=1

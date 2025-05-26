@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -c 96 -N 1 -n 1 --mem 256gb --out logs/phyling_align.log -p short
+#SBATCH -c 96 -N 1 -n 1 --mem 256gb --out logs/phyling_align_custom.log -p short
 
 module load phyling
 CPU=96

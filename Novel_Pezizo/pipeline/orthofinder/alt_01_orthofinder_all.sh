@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p epyc -c 48 -N 1 -n 1 --out logs/orthofinder.log
+#SBATCH -p epyc -c 48 -N 1 -n 1 --out logs/orthofinder.log --mem 64gb
 
 module load orthofinder
 CPU=2
