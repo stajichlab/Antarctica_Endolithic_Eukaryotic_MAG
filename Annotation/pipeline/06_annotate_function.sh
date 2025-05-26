@@ -26,15 +26,17 @@ if [ $N -gt $MAX ]; then
     exit
 fi
 
-OUTDIR=annotate
+OUTDIR=$(realpath annotate)
 BUSCODB=fungi_odb10
-SBTTEMPLATE=lib/authors.sbt
+SBTTEMPLATE=$(realpath lib/authors.sbt)
 IFS=,
 tail -n +2 $SAMPLES | sed -n ${N}p | while read ASMID SPECIES LOCUSTAG
 do
+    pushd $SCRATCH
     time funannotate annotate -i $OUTDIR/$ASMID --cpus $CPUS  \
 		--species "$SPECIES" --strain $ASMID --sbt $SBTTEMPLATE \
 		-o $OUTDIR/$ASMID --busco_db $BUSCODB --rename $LOCUSTAG
+    popd
 done
 
 
