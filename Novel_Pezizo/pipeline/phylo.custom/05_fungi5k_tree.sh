@@ -4,5 +4,10 @@
 module load raxml-ng
 
 pushd ascomycota_msa_filter-buildtree
+raxml-ng 
 
-raxml-ng --all --msa fungi5k_v1.ascomycota.fa.raxml.rba --tree pars{10} -d aa --bs-trees 200 --threads auto{40} --workers auto{4}
+raxml-ng --all --msa AntarcticEUKMAG.ascomycota.fa --model AntarcticEUKMAG.ascomycota.fa.part.aic --tree pars{10} -d aa --bs-trees 100 --threads auto{40} \
+	--workers auto{5}
+
+
+#raxml-ng --all --msa NovelPezizo_v1.ascomycota.fa.raxml.rba --tree pars{10} -d aa --bs-trees 200 --threads auto{40} --workers auto{4}
